@@ -36,7 +36,7 @@
 		<name lang="de-DE">${wollmux.oxt.name}</name>
 	</display-name>
 
-<!--	<registration>
+	<registration>
 		<simple-license accept-by="admin" default-license-id="en-NZ" suppress-on-update="true" >
 			<license-text xlink:href="registration/license_de-DE.txt" lang="de-DE" />
 			<license-text xlink:href="registration/license_en-GB.txt" lang="en-GB" />
@@ -44,5 +44,5 @@
 			<license-text xlink:href="registration/license_en-US.txt" lang="en-US" />
 		</simple-license>
 	</registration>
--->
+
 </description>

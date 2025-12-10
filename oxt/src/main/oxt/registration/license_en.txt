@@ -1,0 +1,207 @@
+EUPL-1.1
+Europäische Union Öffentliche Lizenz
+Version 1.1
+
+EUPL © die Europäische Union 2007, neu veröffentlicht am 19. Juni 2012
+
+Dies ist eine Übersetzung des EUPL. Im Falle von Widersprüchen gilt die englische Fassung als maßgeblich.
+
+1. DEFINITIONEN
+
+„Lizenz“ bezeichnet diese Europäische Union Öffentliche Lizenz.
+„Der Lizenzgeber“ bezeichnet den natürlichen oder juristischen
+Person, der das Werk unter den Bedingungen dieser Lizenz bereitstellt.
+„Der Lizenznehmer“ bezeichnet die natürliche oder juristische Person,
+die das Werk unter den Bedingungen dieser Lizenz empfängt oder herunterlädt.
+„Das Werk“ bezeichnet das urheberrechtlich geschützte Werk, das der Lizenzgeber
+unter den Bedingungen dieser Lizenz bereitstellt.
+„Die abgeleiteten Werke“ bezeichnen alle Werke, die auf dem Werk
+oder darauf basieren und für die der Lizenznehmer ein neues
+Recht des Urhebers hat oder ein abgeleitetes Werk erstellt hat, das aus
+dem Werk oder darauf basierend veröffentlicht wird.
+„Die Sammlung“ bezeichnet eine Sammlung des Werks, in der das Werk
+nur eine unbedeutende Menge an Originalität aufweist, und die durch
+eine Auswahl oder Anordnung der Inhalte zu einer wertvollen Gesamtheit
+geformt wird (z.B. ein Enzyklopädieintrag).
+„Verbreiten“ bezeichnet jeden Akt des Zur-Verfügung-Stellens des Werks
+oder eines abgeleiteten Werks an eine andere Stelle oder Person.
+„Reservieren“ bezeichnet das Recht des Lizenzgebers, Bedingungen
+für die Ausübung bestimmter Rechte zu stellen, die in dieser Lizenz
+nicht ausdrücklich gewährt werden.
+
+2. UMfang DER LIZENZ
+
+Der Lizenzgeber erteilt dem Lizenznehmer ein weltweites, nicht-exklusives,
+unaufgelöste, kostenfreies, unbefristetes, wiederholbar-übertragbares
+Recht, das Werk nach den Bedingungen und unter den Einschränkungen
+dieser Lizenz zu nutzen, insbesondere:
+
+a) das Werk in jeder beliebigen Form und unter Verwendung jeglicher
+mittlerer zu vervielfältigen, einschließlich der Erstellung von
+Sicherungskopien des Werks;
+
+b) abgeleitete Werke zu erstellen;
+
+c) das Werk oder abgeleitete Werke zu verbreiten;
+
+d) das Werk oder abgeleitete Werke öffentlich zugänglich zu machen;
+
+e) das Werk oder abgeleitete Werke öffentlich vorzuführen;
+
+f) das Werk oder abgeleitete Werke öffentlich vorzutragen;
+
+g) das Werk oder abgeleitete Werke auf jegliche Weise zu kommunizieren,
+die in Punkt f) nicht enthalten ist;
+
+h) abgeleitete Werke in Sammlungen zu verwenden, sofern das Werk
+nur eine unbedeutende Menge an Originalität aufweist und die
+Sammlung durch eine Auswahl oder Anordnung der Inhalte zu einer
+wertvollen Gesamtheit geformt wird.
+
+Die oben genannten Rechte umfassen die Nutzung jeglicher digitalen
+Signaturen, die dem Werk beigefügt sind, um dessen Authentizität zu
+überprüfen. Der Lizenznehmer verpflichtet sich, diese Signaturen
+nicht zu entfernen oder zu verändern.
+
+Diese Lizenz ist in Übereinstimmung mit dem Urheberrecht der
+Mitgliedstaaten der Europäischen Union und den geltenden Gesetzen
+der Europäischen Union. Die Lizenznehmer, die außerhalb der
+Europäischen Union ansässig sind, gewähren dem Lizenzgeber die
+gleichen Rechte wie diejenigen, die ihnen durch diese Lizenz eingeräumt werden.
+
+3. KOMMUNIKATION DES WERKS
+
+Wenn der Lizenznehmer das Werk oder abgeleitete Werke verbreitet
+oder öffentlich zugänglich macht, muss er Folgendes tun:
+
+a) mit dem Werk oder abgeleiteten Werken eine Kopie dieser Lizenz
+oder deren URI angeben;
+
+b) den Lizenznehmer über die Tatsache informieren, dass seine
+Lizenz für dieses Werk auf dieser Lizenz basiert, und den URI angeben,
+unter dem eine Kopie dieser Lizenz zu finden ist;
+
+c) die URI des Netzwerkstandorts oder der Adresse, unter der das
+Werk in der Version, in der es von dem Lizenzgeber erhalten wurde,
+zu finden ist;
+
+d) falls das Werk abgeleitete Werke hervorruft oder das Werk in
+Sammlungen verwendet wird: eine unverzügliche Mitteilung darüber machen,
+dass abgeleitete Werke verfügbar sind und wo die abgeleiteten Werke
+oder die Sammlung zu finden sind.
+
+e) die oben genannten Angaben in einer für die Maschine lesbaren
+Form angeben, mit Ausnahme von Punkt c) der vorstehenden Bestimmungen.
+
+Der Lizenzgeber kann diese Bedingungen aufheben, wenn der Lizenznehmer
+nicht innerhalb von 30 Tagen nach Benachrichtigung über die
+Verletzung dieser Lizenz Besserung gelobt und diese vorgenommen hat.
+
+4. EINSCHRÄNKUNGEN
+
+Diese Lizenz erteilt dem Lizenznehmer keine Marken- oder Designrechte.
+
+5. HAFTUNGSAUSSCHLUSS
+
+Das Werk wird „AS IS“ angeboten. Der Lizenzgeber stellt keine Gewähr
+für das Werk. Insbesondere stellt der Lizenzgeber keine Gewähr für:
+
+a) die Marktgängigkeit für einen bestimmten Zweck;
+
+b) die Eignung des Werks für einen bestimmten Zweck;
+
+c) die Abwesenheit von Fehlern;
+
+d) die Genauigkeit und
+
+e) die Einhaltung von Rechten Dritter.
+
+Dies schließt die Haftung des Lizenzgebers für Schäden aus, einschließlich
+allgemeiner, spezieller, zufälliger oder beispielhafter Schäden, die
+durch Urheberrechtsverletzungen, aus der Nutzung oder der Unfähigkeit
+zur Nutzung des Werks (einschließlich, aber nicht beschränkt auf
+die Schäden durch Datenverlust oder Datenkorruption) oder die aus
+anderen Handlungen mit Bezug zum Werk entstehen oder dadurch
+verursacht werden, auch wenn der Lizenzgeber über die Möglichkeit
+eines solchen Schadens informiert wurde.
+
+6. URHEBERRECHTSVERZICHT
+
+Wenn unter den geltenden Gesetzen des Ländersitzes des Lizenzgebers
+oder des Landes, in dem der Lizenznehmer das Werk hauptsächlich
+nutzt, eine der Garantien, einschließlich der oben genannten Garantien,
+gesetzlich vorgeschrieben ist, werden sie so weit wie gesetzlich zulässig
+ausgeschlossen. Die vorstehenden Ausschlüsse und Haftungsbeschränkungen
+gelten nicht, wenn die Schäden auf böswilliges Fehlverhalten oder
+grobe Fahrlässigkeit des Lizenzgebers zurückzuführen sind.
+
+7. LIZENZBEENDIGUNG
+
+Diese Lizenz und die damit erteilten Rechte erlöschen automatisch
+bei Verletzung ihrer Bedingungen. Diejenigen Unterlizenznehmer,
+die ihre Rechte von einem Lizenznehmer erhalten haben, dessen Rechte
+beendet wurden, verlieren ebenfalls ihre Rechte. Diejenigen
+Unterlizenznehmer, die ihre Rechte unabhängig von dem Lizenznehmer,
+dessen Rechte beendet wurden, erhalten haben, behalten ihre Rechte.
+
+8. MISSBRAUCH DES WERKS
+
+Der Lizenznehmer kann das Werk nur unter den Bedingungen dieser
+Lizenz nutzen. Jegliche andere Nutzung ist unzulässig. Insbesondere
+darf der Lizenznehmer das Werk nicht:
+
+a) für kommerzielle Zwecke vermarkten, ohne dass der Lizenzgeber
+dem ausdrücklich zugestimmt hat;
+
+b) das Werk modifizieren und diese modifizierte Version als
+Originalversion ausgeben;
+
+c) das Werk dekompilieren, disassemblieren oder rückwärts
+technisch analysieren, soweit dies nicht ausdrücklich von der
+geltenden Rechtsordnung zugelassen ist.
+
+9. GRENZÜBERSCHREITENDE VERWENDUNG DES WERKS
+
+Die Lizenznehmer, die außerhalb der Europäischen Union ansässig
+sind, müssen das Werk in Übereinstimmung mit ihrer nationalen
+Gesetzgebung nutzen.
+
+10. ANDERE RECHTE
+
+Diese Lizenz berührt nicht die folgenden Rechte:
+
+a) Patente und andere Rechte des geistigen Eigentums Dritter,
+die in diesem Werk enthalten sind oder damit verbunden sind;
+
+b) Rechte, die durch Gesetz oder Vertrag außerhalb dieser
+Lizenz gewährt werden, einschließlich Rechte des Lizenzgebers
+vorbehalten;
+
+c) Rechte Dritter unter vertraglichen Lizenzvereinbarungen
+zwischen diesem Dritten und dem Lizenznehmer.
+
+11. KEINE VERPFLICHTUNG
+
+Nichts in dieser Lizenz kann als Grundlage für die Schaffung oder
+Annahme von Verpflichtungen gegenüber dem Lizenzgeber verstanden werden.
+
+12. GÜLTIGKEIT
+
+Sollte eine der Bestimmungen dieser Lizenz unwirksam oder
+undurchführbar sein, bleibt die Wirksamkeit und Durchführbarkeit
+der übrigen Bestimmungen unberührt. In diesem Fall werden die
+Parteien verpflichtet, die ungültige Bestimmung durch eine
+wirksame und durchführbare Bestimmung zu ersetzen, die dem
+Ziel der ursprünglichen Bestimmung möglichst nahe kommt.
+
+13. GERICHTSSTAND
+
+Alle Streitigkeiten aus oder im Zusammenhang mit dieser Lizenz
+werden ausschließlich von den Gerichten des Landes, in dem der
+Lizenzgeber ansässig ist, entschieden, sofern nicht zwingend
+vorschriftlich etwas anderes bestimmt ist.
+
+14. ANWENDUNGSBARER RECHT
+
+Diese Lizenz unterliegt ausschließlich dem Recht des Landes,
+in dem der Lizenzgeber ansässig ist.
